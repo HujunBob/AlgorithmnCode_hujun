@@ -1,2 +1,4 @@
-# AlgorithmnCode_hujun
-各个笔试习题集
+# AlgorithmnCode
+Learning how to use git, And saved same Algorithmn Code
+
+more：visit the blog：http://blog.csdn.net/FlushHip
